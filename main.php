@@ -3,10 +3,11 @@
 Plugin Name: Thinking Matters
 Plugin URI: 
 Description: 
-Version: 1.1.0
+Version: 1.2.0
 Author: Crystal Barton
 Author URI: https://www.linkedin.com/in/crystalbarton
 Network: False
+GitHub Plugin URI: https://github.com/clas-web/thinkingmatters
 */
 
 
